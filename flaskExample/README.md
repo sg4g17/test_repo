@@ -31,4 +31,4 @@ Test the application using the local development server (dev_appserver.py), whic
 
 The local development server is now running and listening for requests on port 8080.
 
-* 2. Visit http://localhost:8080/ in your web browser to view the app.
+* 2. Visit http://localhost:8080/  in your web browser to view the app.
